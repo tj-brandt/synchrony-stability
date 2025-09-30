@@ -1,0 +1,9 @@
+policy,synchrony,stability,coherence,legibility
+Cap,0.812,0.756,-0.006,0.932
+Dead-band,0.997,0.187,-0.009,0.663
+EMA,0.909,0.569,0.004,0.798
+Hybrid,0.812,0.756,-0.005,0.932
+Hybrid+Cache,0.812,0.755,-0.006,0.933
+Hybrid+Radius,0.812,0.756,-0.006,0.933
+Static Baseline,-0.01,1.0,1.0,1.0
+Uncapped,1.0,0.183,-0.01,0.658

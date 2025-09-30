@@ -1,0 +1,3 @@
+Metric,Human-Subjects (Observed),LLM-in-the-Loop Sim (Real-World),TOST Equivalence (p-value)
+Synchrony (Embedding),"0.704 [0.684, 0.723]","0.698 [0.659, 0.740]",Equivalent (p = 0.000)
+Stability (Vector),"0.201 [0.163, 0.237]","0.203 [0.127, 0.279]",Equivalent (p = 0.016)

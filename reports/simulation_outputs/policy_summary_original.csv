@@ -1,0 +1,9 @@
+policy,synchrony,stability,coherence,register_flip_rate,cache_hit_rate
+Cap,0.829,0.878,0.106,0.092,0.0
+Dead-band,0.997,0.545,0.077,0.252,0.0
+EMA,0.855,0.829,0.068,0.064,0.0
+Hybrid,0.829,0.878,0.106,0.092,0.0
+Hybrid+Cache,0.834,0.874,0.109,0.07,0.215
+Hybrid+Radius,0.848,0.873,0.113,0.113,0.0
+Static Baseline,0.079,1.0,1.0,0.0,0.0
+Uncapped,1.0,0.542,0.079,0.254,0.0

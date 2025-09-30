@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Analysis for “Navigating the Synchrony–Stability Frontier in Adaptive Chatbots”"
+message: "If you use this code or data, please cite it as below."
+type: software
+authors:
+  - family-names: Brandt
+    given-names: T. James
+    orcid: "https://orcid.org/0009-0000-8294-6235"
+version: 0.1.0
+date-released: 2025-09-29
+repository-code: "https://github.com/tj-brandt/synchrony-stability"
+license: MIT

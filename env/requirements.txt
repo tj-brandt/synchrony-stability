@@ -1,0 +1,16 @@
+# Core data analysis and plotting libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+
+# Utility for progress bars
+tqdm
+
+# Required for the TOST equivalence test in analyze_results.py
+statsmodels
+
+# Tool for generating a license manifest
+pip-licenses
